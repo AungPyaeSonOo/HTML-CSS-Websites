@@ -83,6 +83,6 @@ Contributions are welcome! If you'd like to improve the project:
 
 For questions or suggestions, feel free to contact me:
 
--GitHub: https://github.com/AungPyaeSonOo/
+GitHub: https://github.com/AungPyaeSonOo/
 
--Email: aungpyaesonoo002@gmail.com
+Email: aungpyaesonoo002@gmail.com
